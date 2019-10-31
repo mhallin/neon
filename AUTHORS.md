@@ -4,6 +4,7 @@ Neon owes its existence to the contributions of these fine people.
 
 * [Reza Akhavan](https://github.com/jedireza)
 * [Nerijus Arlauskas](https://github.com/Nercury)
+* [Igor Artamonov](https://github.com/splix)
 * [Tim Blair](https://github.com/tblair)
 * [Max Brunsfeld](https://github.com/maxbrunsfeld)
 * [Dale Bustad](https://github.com/divmain)
@@ -15,6 +16,7 @@ Neon owes its existence to the contributions of these fine people.
 * [Dave Herman](https://github.com/dherman)
 * [Maciej Hirsz](https://github.com/maciejhirsz)
 * [Amal Hussein](https://github.com/nomadtechie)
+* [Jeroen (jrd-rocks)](https://github.com/jrd-rocks)
 * [Keegan (mhsjlw)](https://github.com/mhsjlw)
 * [Florian Keller](https://github.com/ffflorian)
 * [Aleksey Kladov](https://github.com/matklad)
@@ -35,6 +37,7 @@ Neon owes its existence to the contributions of these fine people.
 * [stoically](https://github.com/stoically)
 * [Andrew Stucki](https://github.com/andrewstucki)
 * [Martin Svanberg](https://github.com/msvbg)
+* [A2ZH (theJian)](https://github.com/theJian)
 * [Corbin Uselton](https://github.com/corbinu)
 * [K.J. Valencik](https://github.com/kjvalencik)
 * [Roberto Vidal](https://github.com/jrvidal)

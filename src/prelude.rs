@@ -8,3 +8,4 @@ pub use context::{CallKind, Context, ModuleContext, ExecuteContext, ComputeConte
 pub use result::{NeonResult, JsResult, JsResultExt};
 pub use task::Task;
 pub use threadsafecb::ThreadSafeCallback;
+pub use crate::{register_module, declare_types};
